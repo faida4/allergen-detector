@@ -36,8 +36,10 @@ Le modèle NLP entraîné avec **spaCy** identifie les ingrédients problématiq
 ---
 
 ## 🚀 Lancer l’application
+streamlit run Streamlit.py
 
 ### 🧩 1. Cloner le dépôt
 ```bash
 git clone https://github.com/faida4/allergen-detector.git
 cd allergen-detector
+
