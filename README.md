@@ -1,11 +1,4 @@
 <!-- Bannière -->
-## 📸 Aperçu de l’application
-
-<p align="center">
-  <img src="images/app1.png" alt="Page d'accueil" width="280"/>
-  <img src="images/app2.png" alt="Analyse d’un menu" width="280"/>
-  <img src="images/app3.png" alt="Résultats de détection" width="280"/>
-</p>
 
 
 <h1 align="center">🍽️ Allergen Detector</h1>
@@ -16,7 +9,7 @@
 
 ---
 
-## 🌟 Aperçu du projet
+## 🌟 Description du projet
 
 **Allergen Detector** est une application web qui permet de **détecter automatiquement les allergènes dans les menus de restaurants** à partir d’une **image ou d’un texte brut**.  
 Le modèle NLP entraîné avec **spaCy** identifie les ingrédients problématiques et indique les allergènes potentiels.
@@ -34,6 +27,13 @@ Le modèle NLP entraîné avec **spaCy** identifie les ingrédients problématiq
 </p>
 
 ---
+## 📸 Aperçu de l’application
+
+<p align="center">
+  <img src="images/app1.png" alt="Page d'accueil" width="280"/>
+  <img src="images/app2.png" alt="Analyse d’un menu" width="280"/>
+  <img src="images/app3.png" alt="Résultats de détection" width="280"/>
+</p>
 
 ## 🚀 Lancer l’application
 streamlit run Streamlit.py
@@ -42,4 +42,5 @@ streamlit run Streamlit.py
 ```bash
 git clone https://github.com/faida4/allergen-detector.git
 cd allergen-detector
+
 
